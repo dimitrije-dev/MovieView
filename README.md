@@ -175,7 +175,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ```
 
----
 
-Would you like me to make a **version with a centered header, logo area, and dark GitHub-style banner** (looks great on profile pages)? I can generate that version too.
-```
