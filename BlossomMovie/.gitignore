@@ -98,4 +98,4 @@ SourcePackages/
 *~
 
 # Local API config with secrets
-APIConfig.json
+/APIConfig.json
