@@ -33,8 +33,10 @@ Inspired by popular streaming platforms, it offers a modern, fluid user experien
 
 ## 📸 Screenshots
 
-_Add your app screenshots here to show off your design!_  
-*(e.g. Home Screen, Trending List, Splash Screen)*
+<img width="585" height="1266" alt="IMG_0294" src="https://github.com/user-attachments/assets/a151a9cc-c8d1-4376-89e8-ef5205425179" />
+<img width="585" height="1266" alt="IMG_0293" src="https://github.com/user-attachments/assets/ee957828-d707-4ba0-9f30-ddd37340c75e" />
+
+
 
 ---
 
