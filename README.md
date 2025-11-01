@@ -3,9 +3,9 @@
 
 
 
-# 🎬 BlossomMovie
+# 🎬 Movie View
 
-**BlossomMovie** is a sleek iOS app built with **Swift** and **SwiftUI**, designed to showcase trending and top-rated movies and TV shows using data from **The Movie Database (TMDB)** API.  
+**MovieView** is a sleek iOS app built with **Swift** and **SwiftUI**, designed to showcase trending and top-rated movies and TV shows using data from **The Movie Database (TMDB)** API.  
 Inspired by popular streaming platforms, it offers a modern, fluid user experience with animated transitions and dynamic poster displays.
 
 ---
@@ -55,7 +55,7 @@ Inspired by popular streaming platforms, it offers a modern, fluid user experien
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dimitrije-dev/BlossomMovie.git
+git clone https://github.com/dimitrije-dev/MovieView.git
 ````
 
 #### 2. Configure the TMDB API Key
@@ -63,10 +63,10 @@ git clone https://github.com/dimitrije-dev/BlossomMovie.git
 Copy the template API configuration file:
 
 ```bash
-cp BlossomMovie/APIConfig.template.json BlossomMovie/APIConfig.json
+cp MovieView/APIConfig.template.json MovieView/APIConfig.json
 ```
 
-Then open `BlossomMovie/APIConfig.json` and add your personal TMDB API key:
+Then open `MovieView/APIConfig.json` and add your personal TMDB API key:
 
 ```json
 {
@@ -85,7 +85,7 @@ Then open `BlossomMovie/APIConfig.json` and add your personal TMDB API key:
 Open the project in Xcode:
 
 ```bash
-open BlossomMovie.xcodeproj
+open MovieView.xcodeproj
 ```
 
 #### 4. Build & Run
@@ -111,7 +111,7 @@ Select an iOS simulator (or your physical device) and press **Run ▶️**.
 ## 🧠 Core Project Structure
 
 ```
-BlossomMovie/
+MovieView/
 │
 ├── Model/
 │   └── Title.swift               # Movie and TV data models
