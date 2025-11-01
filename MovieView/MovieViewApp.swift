@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct BlossomMovieApp: App {
+struct MovieViewApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

@@ -10,14 +10,6 @@
 		36EBB93F2EB37CF600651187 /* BlossomMovie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlossomMovie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		36EBB9412EB37CF600651187 /* BlossomMovie */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = BlossomMovie;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
-
 /* Begin PBXFrameworksBuildPhase section */
 		36EBB93C2EB37CF600651187 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
@@ -32,7 +24,6 @@
 		36EBB9362EB37CF600651187 = {
 			isa = PBXGroup;
 			children = (
-				36EBB9412EB37CF600651187 /* BlossomMovie */,
 				36EBB9402EB37CF600651187 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -60,9 +51,6 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				36EBB9412EB37CF600651187 /* BlossomMovie */,
-			);
 			name = BlossomMovie;
 			packageProductDependencies = (
 			);
@@ -85,7 +73,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 36EBB93A2EB37CF600651187 /* Build configuration list for PBXProject "BlossomMovie" */;
+			buildConfigurationList = 36EBB93A2EB37CF600651187 /* Build configuration list for PBXProject "MovieView" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -313,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		36EBB93A2EB37CF600651187 /* Build configuration list for PBXProject "BlossomMovie" */ = {
+		36EBB93A2EB37CF600651187 /* Build configuration list for PBXProject "MovieView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				36EBB9482EB37CF700651187 /* Debug */,
