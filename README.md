@@ -6,7 +6,11 @@
 # 🎬 Movie View
 
 **MovieView** is a sleek iOS app built with **Swift** and **SwiftUI**, designed to showcase trending and top-rated movies and TV shows using data from **The Movie Database (TMDB)** API.  
-Inspired by popular streaming platforms, it offers a modern, fluid user experience with animated transitions and dynamic poster displays.
+Inspired by popular streaming platforms, it offers a modern, fluid user experience with animated transitions and dynamic poster displays. Based on BlossomMovie Course.
+
+# Course link
+
+https://www.udemy.com/course/blossom-build-swiftui-beginner/?couponCode=25BBPMXINACTIVE
 
 ---
 
