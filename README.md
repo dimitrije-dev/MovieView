@@ -1,8 +1,8 @@
 
 
----
 
-````markdown
+
+
 # 🎬 BlossomMovie
 
 **BlossomMovie** is a sleek iOS app built with **Swift** and **SwiftUI**, designed to showcase trending and top-rated movies and TV shows using data from **The Movie Database (TMDB)** API.  
