@@ -1,0 +1,101 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcuserstate
+*.xcscmblueprint
+
+# User settings
+*.xcuserdatad/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Accio dependency manager
+Dependencies/
+.accio/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Code coverage
+*.xccovreport
+*.xccovarchive
+
+# Archives
+*.xcarchive
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# iOS device logs
+*.crash
+*.ips
+
+# SwiftLint and other tools
+.swiftlint.yml
+.swiftformat
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Application specific
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
+*.iml
+
+# SPM/Xcode caches
+SourcePackages/
+.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# SwiftData / Core Data generated junk (if any)
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Simulator device data (do not ignore entire ~/Library/Developer)
+# Keep this project-local just in case
+**/Library/Developer/CoreSimulator/Devices/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Local API config with secrets
+APIConfig.json
